@@ -5,7 +5,7 @@ This repository contains the test automation scripts for validating the payment 
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
-- [Tested Functionalities](#Tested Functionalities)
+- [Tested Functionalities](#Tested-Functionalities)
 - [Running Tests](#running-tests)
 - [Prerequisites](#Prerequisites)
 - [Contact](#Contact)
