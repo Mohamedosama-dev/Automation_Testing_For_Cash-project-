@@ -39,5 +39,5 @@ Before running the tests, ensure that the following are installed:
 ### Clone the Repository
 To get started, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/Automation_Testing_For_Cash-project-.git
+git clone https://github.com/Mohamedosama-dev/Payment_Services_Test_Automation.git
 
