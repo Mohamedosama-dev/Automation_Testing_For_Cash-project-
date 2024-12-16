@@ -41,3 +41,14 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/Mohamedosama-dev/Payment_Services_Test_Automation.git
 
+## Contact
+
+For questions or support, please contact:
+
+- **Your Name**: [mohamedosama7337@gmail.com](mailto:mohamedosama7337@gmail.com)
+- **GitHub**: [https://github.com/Mohamedosama-dev](https://github.com/Mohamedosama-dev)
+
+---
+
+Thank you for checking out the Wallet Website! We hope you find it useful and efficient.
+
