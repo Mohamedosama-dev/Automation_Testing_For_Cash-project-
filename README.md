@@ -1,5 +1,4 @@
-![Screenshot 2024-12-17 at 01-10-14 crompo - بحث Google](https://github.com/user-attachments/assets/a1a975d3-ea67-4be1-809c-c6687eae3f63)
-
+![Screenshot 2024-12-17 at 01-09-47 Test Automation images - بحث Google](https://github.com/user-attachments/assets/65e47176-ac3c-4a5c-9b30-e121615ede46)
 # Payment Services Test Automation
 
 This repository contains the test automation scripts for validating the payment services of a web application. The tests include functionalities such as user registration, deposit, withdrawal, transfer, and recharge services.
