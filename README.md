@@ -5,7 +5,7 @@ This repository contains the test automation scripts for validating the payment 
 
 ## Table of Contents
 - [Technologies Used](#technologies-used)
-- [Test Cases](#test-cases)
+- [Tested Functionalities](#Tested Functionalities)
 - [Running Tests](#running-tests)
 - [Prerequisites](#Prerequisites)
 - [Contact](#Contact)
@@ -20,13 +20,45 @@ This repository contains the test automation scripts for validating the payment 
 - ![gifmaker_me(2)](https://github.com/user-attachments/assets/e8e95a04-ffa3-47f0-9fbc-d8b945bcdb22)
 
 
-## Test Cases
-The following test cases are included in this repository:
+## Tested Functionalities
 
-1. **Register User**: Validates the user registration functionality.
-2. **Transfer Funds**: Validates the transfer of funds between user accounts.
-3. **Recharge**: Tests the recharge functionality of the service.
-4. **Deposit and Withdraw**: Validates deposit and withdrawal functionalities for the wallet.
+The test cases cover a variety of user actions in the system, including:
+
+### 1. **User Registration**  
+- **Valid registration** (correct details).  
+- **Invalid registration scenarios**:
+  - Phone number already exists.
+  - Phone number too short or too long.
+  - Weak password.
+
+### 2. **Login**  
+- **Valid login** (correct credentials).  
+- **Invalid login scenarios**:
+  - Incorrect phone number.
+  - Incorrect password.
+
+### 3. **Transactions**  
+- **Deposit**: Valid deposit action.  
+- **Withdraw**: Valid withdraw action.  
+- **Transfer**: Valid transfer action.
+- **Invalid scenarios**:
+  - Negative amounts.
+  - Insufficient balance.
+  - Incorrect transfer amount.  
+- **Special cases**:
+  - Transfer to a non-existent phone number.
+  - Transfer to charity.
+
+### 4. **Recharge**  
+- **Valid recharge** of a phone number.  
+- **Invalid recharge**:
+  - Negative or zero amounts.
+  - Recharge to a non-existent phone number.
+
+### 5. **Payment Services**  
+- **Successful payment** for services (e.g., utility payments).  
+- **Invalid payments**:
+  - Negative amounts.
 
 Each of these tests is structured in individual TestNG classes and can be executed as part of a suite.
 
