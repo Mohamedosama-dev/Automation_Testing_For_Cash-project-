@@ -16,6 +16,8 @@ This repository contains the test automation scripts for validating the payment 
 - **Selenium**: Web automation tool for simulating user interactions with the web application.
 - **Maven**: Build automation tool for managing dependencies.
 - **Git**: Version control system for managing code changes.
+- ![gifmaker_me(2)](https://github.com/user-attachments/assets/e8e95a04-ffa3-47f0-9fbc-d8b945bcdb22)
+
 
 ## Test Cases
 The following test cases are included in this repository:
