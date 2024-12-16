@@ -7,9 +7,9 @@ This repository contains the test automation scripts for validating the payment 
 - [Technologies Used](#technologies-used)
 - [Test Cases](#test-cases)
 - [Running Tests](#running-tests)
-- [Project Setup](#project-setup)
-- [Contributing](#contributing)
-- [License](#license)
+- [Prerequisites](#project-setup)
+- [Contact](#Contact)
+
 
 ## Technologies Used
 - **Java**: Programming language used for writing test scripts.
@@ -52,6 +52,5 @@ For questions or support, please contact:
 
 - **My Name**: [mohamedosama7337@gmail.com](mailto:mohamedosama7337@gmail.com)
 - **GitHub**: [https://github.com/Mohamedosama-dev](https://github.com/Mohamedosama-dev)
-
 ---
 
