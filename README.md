@@ -25,14 +25,14 @@ This repository contains the test automation scripts for validating the payment 
 The test cases cover a variety of user actions in the system, including:
 
 ### 1. **User Registration**  
-- **Valid registration** (correct details).  
+- **Valid registration**   
 - **Invalid registration scenarios**:
   - Phone number already exists.
   - Phone number too short or too long.
   - Weak password.
 
 ### 2. **Login**  
-- **Valid login** (correct credentials).  
+- **Valid login**   
 - **Invalid login scenarios**:
   - Incorrect phone number.
   - Incorrect password.
